@@ -1,5 +1,5 @@
 # Hackernews App
-This a tutorial to learn how to use GraphQL in a Django project.
+I did this project to learn how to use GraphQL in a Django project.
 I followed the recommendations from [How to GraphQL](https://www.howtographql.com/).
 
 I'm also made changes in the code to avoid some conflicts in the Authentication part.
