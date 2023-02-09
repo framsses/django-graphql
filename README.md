@@ -1,11 +1,11 @@
 # Hackernews App
-I did this project to learn how to use GraphQL in a Django project.
-I followed the recommendations from [How to GraphQL](https://www.howtographql.com/).
+Learn how to use GraphQL in a Django project.
+Follow the recommendations from [How to GraphQL](https://www.howtographql.com/).
 
-I'm also made changes in the code to avoid some conflicts in the Authentication part.
+I made changes in the code to avoid package conflicts in the Authentication part.
 
 In case you want to try out the project.
-I recommend to install the **requirements.txt** file from the terminal:
+I recommend you to install the **requirements.txt** file from the terminal:
 
 ```python
 $ pip install -r requirements.txt
@@ -13,7 +13,7 @@ $ pip install -r requirements.txt
 
 ## In case you are following the tutorial
 
-In the authentication part, first at all, change the version of PyJWT.
+In the authentication part change the version of PyJWT.
 
 ```python
 $ pip install --upgrade PyJWT==1.7.0
